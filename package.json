@@ -1,5 +1,5 @@
 {
-    "name": "wasm-git",
+    "name": "@grexie/wasm-git",
     "version": "0.0.10",
     "author": {
         "name": "Peter Salomonsen",
@@ -28,5 +28,8 @@
         "karma-chrome-launcher": "^3.1.1",
         "karma-mocha": "^2.0.1",
         "mocha": "^10.2.0"
+    },
+    "publishConfig": {
+       "access": "public"
     }
 }
